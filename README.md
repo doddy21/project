@@ -1,2 +1,2 @@
 # project
-tugas bu kunti
+Project Bu Kunti
